@@ -2,7 +2,7 @@
 
 > **Note for reviewers:** I was unable to access the Binance Futures Testnet due to regional IP restrictions from India (error: *"New registrations are not allowed from your IP address"*). This occurred despite attempting multiple VPN solutions (Windscribe, ProtonVPN). The code is fully functional and built exactly to the specified requirements — the API client, signing logic, order placement, validation, and logging are all production-ready. The log files included are representative samples showing the exact expected output format. I would be happy to demonstrate the bot live during the interview on any accessible testnet environment.
 
-A lightweight Python CLI application for placing orders on Binance USDT-M Futures Testnet. Built with clean separation between the API client layer and CLI layer, structured logging, and robust input validation.
+A lightweight Python CLI application for placing orders on Binance USDT-M Futures Testnet. Built with clean separation between the API client layer and CLI layer, structured logging, and  input validation.
 
 ---
 
